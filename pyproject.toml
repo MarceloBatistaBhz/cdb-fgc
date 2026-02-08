@@ -1,7 +1,6 @@
 [project]
-package = /mount/src/cdb-fgc
 package-mode = false
-name = "renda-fixa"
+name = "cdb-fgc"
 version = "0.1.0"
 description = ""
 authors = [
@@ -17,5 +16,6 @@ dependencies = [
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
 
 
